@@ -9,5 +9,4 @@ foreach ($hash_algos as $algo) {
     echo $algo . "\t" . $hasher->hash("test", false) . "\t" . $hasher->hash("rest", false);
     echo "\n";
 }
-
-?>
+Who is google.com
